@@ -1,6 +1,6 @@
 ## 基础篇
 | 题号     |      |  | Topic | 面经 |
-| -- | -- | -- |--| --|
+| -- | -- | ----- |--| -----|
 | 124 | [Binary Tree Max Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)| [二叉树最大路径和](https://leetcode.cn/problems/binary-tree-maximum-path-sum/) | Traversal, dp Tree | 2021 DoorDash VO | 
 | 99  | [Recover BST](https://leetcode.com/problems/recover-binary-search-tree/)| [恢复二叉搜索树](https://leetcode.cn/problems/recover-binary-search-tree/) | Traversal | 
 | 17  |  [Letter Combinations of a Phone number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)| [电话号码的字母组合](https://leetcode.cn/problems/letter-combinations-of-a-phone-number/)    |   Traversal/BackTracking    |  2021 Flexport VO     |
@@ -27,7 +27,7 @@
 
 ## 进阶篇
 | 题号     |      |  | Topic | 面经 |
-| -- | -- | -- |--| --|
+| -- | -- | ----- |--| -----|
 | 370  |  [Range Addition](https://leetcode.com/problems/range-addition/)     |   [区间加法](https://leetcode.cn/problems/range-addition/)    |   Difference Array   |       |
 | 2021 |  [Brightest Position on the Street](https://leetcode.com/problems/brightest-position-on-street/)     |   [街上最亮的位置](https://leetcode.cn/problems/brightest-position-on-street/)    |    Difference Array   |   2022 Codesignal Q4    |
 | 1094 |  [Car pooling](https://leetcode.com/problems/car-pooling/)     |   [拼车](https://leetcode.com/problems/car-pooling/)    |   Difference Array    |       |
