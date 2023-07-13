@@ -9,8 +9,13 @@
 | 200  |  [Number of Islands](https://leetcode.com/problems/number-of-islands/)|   [岛屿数量](https://leetcode.cn/problems/number-of-islands/)    |   Traversal    |   2022 Amzn VO    |
 | 199  |  [Binary Tree Right side view](https://leetcode.com/problems/binary-tree-right-side-view/)     |   [二叉树右视图](https://leetcode.cn/problems/binary-tree-right-side-view/)    |    Traversal   |       |
 | 127  |  [Word Ladder](https://leetcode.com/problems/word-ladder/) |   [单词接龙](https://leetcode.cn/problems/word-ladder/)    |   Traversal    |  2021 Amzn VO     |
-| 23 |  [Merge K sorted list](https://leetcode.com/problems/merge-k-sorted-lists/)     |   [合并K个升序链表](https://leetcode.cn/problems/merge-k-sorted-lists/)    |   Heap    |   2021 Verkada VO, 2021 Meta VO    |
-| 253  |  [Meeting Rooms 2](https://leetcode.com/problems/meeting-rooms-ii/)     |   [会议室2](https://leetcode.cn/problems/meeting-rooms-ii/)    |   Heap    |    2020 Google VO   |
+| 215  | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)   |  [数组中的第K个最大元素](https://leetcode.cn/problems/kth-largest-element-in-an-array/)  | Heap |   2020 Meta Phone (Must faster than O(nlogn))   |
+| 347  | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [前K个高频元素](https://leetcode.cn/problems/top-k-frequent-elements/) | Heap |   |
+| 692  | [Top K Frequent words](https://leetcode.com/problems/top-k-frequent-words/description/) | [前K个高频单词](https://leetcode.cn/problems/top-k-frequent-words/description/) | Heap |   |
+| 632 | [Smallest Range Covering Elements from K list](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/) | [最小区间](https://leetcode.cn/problems/top-k-frequent-words/description/) | Heap K lists |   |
+| 23 |  [Merge K sorted lists](https://leetcode.com/problems/merge-k-sorted-lists/)     |   [合并K个升序链表](https://leetcode.cn/problems/merge-k-sorted-lists/)    |   Heap K lists   |   2021 Verkada VO, 2021 Meta VO    |
+| 253  |  [Meeting Rooms 2](https://leetcode.com/problems/meeting-rooms-ii/)     |   [会议室2](https://leetcode.cn/problems/meeting-rooms-ii/)    |   Heap Time |    2020 Google VO   |
+| 1353 | [Maximum Number of Events that can be attend](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/) | [最多可以参加的会议数目](https://leetcode.cn/problems/maximum-number-of-events-that-can-be-attended/) | Heap Time | |
 | 10  |  [RegEx Matching](https://leetcode.com/problems/regular-expression-matching/)     |   [正则表达式匹对](https://leetcode.cn/problems/regular-expression-matching/)  |    dp 2d   |    2021 Confluent Phone   |
 | 72  |  [Edit Distance](https://leetcode.com/problems/edit-distance/)     |   [编辑距离](https://leetcode.cn/problems/edit-distance/)    |    dp 2d  |       |
 | 1444  |  [Number of ways of Cutting a Pizza](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/)  |   [切披萨方案数](https://leetcode.cn/problems/number-of-ways-of-cutting-a-pizza/)    |   dp   |    2022 Tiktok OA   |
@@ -51,4 +56,3 @@
 | 2378 |  [Choose Edges to Maximize Score in a Tree](https://leetcode.com/problems/choose-edges-to-maximize-score-in-a-tree/description/)     |   [选择边最大化树的得分](https://leetcode.cn/problems/choose-edges-to-maximize-score-in-a-tree/description/)    |  Tree dp    |   UIUC CS473 Midterm    |
 | 312  |  [Burst Balloons](https://leetcode.com/problems/burst-balloons/)     |   [戳气球](https://leetcode.cn/problems/burst-balloons/)    |   Range dp    |       |
 | 730  |  [Count Different Palindromic Subseq](https://leetcode.com/problems/count-different-palindromic-subsequences/)     |   [统计不同回文子序列](https://leetcode.cn/problems/count-different-palindromic-subsequences/)    |   Range dp    |       |
-|   | []()   |  []()  |  |      |
